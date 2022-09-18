@@ -1,9 +1,10 @@
 # Applied Programming 
 
-## Task: 
+## Author: 
+Artur Lotfullin
 
+## Task:
 Write a program in any language:
-
 The user enters a number from 1 to 999999 (the amount to withdraw from the ATM). It is necessary to display the entered amount on the screen in words and at the end write the name of the currency (rubles) with the correct ending.
 For example: 7431 - seven thousand four hundred and thirty one rubles, 2149 - two thousand one hundred and forty nine rubles, 15 - fifteen rubles, 3 - three rubles.
 
