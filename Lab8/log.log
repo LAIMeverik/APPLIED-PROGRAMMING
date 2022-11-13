@@ -1,0 +1,118 @@
+2022-11-13 17:29:46,451 - Logger - INFO - Program started
+2022-11-13 17:29:53,785 - Logger - INFO - User entered value 5
+2022-11-13 17:29:53,785 - Logger - INFO - Displayed number: 5
+2022-11-13 17:29:56,080 - Logger - INFO - Displayed number: 1
+2022-11-13 17:29:57,159 - Logger - INFO - Displayed number: 2
+2022-11-13 17:29:59,796 - Logger - INFO - Displayed number: 4
+2022-11-13 17:30:00,415 - Logger - INFO - Displayed number: 3
+2022-11-13 17:30:01,027 - Logger - INFO - Program done
+2022-11-13 17:37:17,350 - Logger - INFO - Program started
+2022-11-13 17:37:47,550 - Logger - INFO - Program started
+2022-11-13 17:38:51,591 - Logger - INFO - User entered value 3
+2022-11-13 17:39:20,885 - Logger - INFO - Program started
+2022-11-13 17:39:23,409 - Logger - INFO - User entered value 3
+2022-11-13 17:39:23,409 - Logger - INFO - Displayed number: 1
+2022-11-13 17:39:23,409 - Logger - INFO - Displayed number: 2
+2022-11-13 17:39:23,409 - Logger - INFO - Displayed number: 3
+2022-11-13 17:39:23,410 - Logger - INFO - Program done
+2022-11-13 17:39:27,616 - Logger - INFO - Program started
+2022-11-13 17:39:33,405 - Logger - INFO - User entered value 6
+2022-11-13 17:39:33,405 - Logger - INFO - Displayed number: 2
+2022-11-13 17:39:33,405 - Logger - INFO - Displayed number: 1
+2022-11-13 17:39:33,405 - Logger - INFO - Displayed number: 4
+2022-11-13 17:39:33,405 - Logger - INFO - Displayed number: 3
+2022-11-13 17:39:33,405 - Logger - INFO - Displayed number: 5
+2022-11-13 17:39:33,406 - Logger - INFO - Displayed number: 6
+2022-11-13 17:39:33,406 - Logger - INFO - Program done
+2022-11-13 17:39:46,236 - Logger - INFO - Program started
+2022-11-13 17:39:50,023 - Logger - INFO - User entered value 4
+2022-11-13 17:39:50,023 - Logger - INFO - Displayed number: 4
+2022-11-13 17:39:50,024 - Logger - INFO - Displayed number: 2
+2022-11-13 17:39:50,024 - Logger - INFO - Displayed number: 1
+2022-11-13 17:39:50,024 - Logger - INFO - Displayed number: 3
+2022-11-13 17:39:50,024 - Logger - INFO - Program done
+2022-11-13 17:45:17,683 - Logger - INFO - Program started
+2022-11-13 17:45:21,192 - Logger - INFO - User entered value 3
+2022-11-13 17:45:21,192 - Logger - INFO - Displayed number: 2
+2022-11-13 17:45:28,767 - Logger - INFO - Displayed number: 3
+2022-11-13 17:45:29,392 - Logger - INFO - Displayed number: 1
+2022-11-13 17:45:47,628 - Logger - INFO - Program done
+2022-11-13 17:45:50,005 - Logger - INFO - Program started
+2022-11-13 17:45:52,728 - Logger - INFO - User entered value 2
+2022-11-13 17:45:52,728 - Logger - INFO - Displayed number: 1
+2022-11-13 17:45:52,729 - Logger - INFO - Displayed number: 2
+2022-11-13 17:45:52,729 - Logger - INFO - Program done
+2022-11-13 17:46:00,458 - Logger - INFO - Program started
+2022-11-13 17:46:02,665 - Logger - INFO - User entered value 5
+2022-11-13 17:46:02,665 - Logger - INFO - Displayed number: 1
+2022-11-13 17:46:02,665 - Logger - INFO - Displayed number: 2
+2022-11-13 17:46:02,665 - Logger - INFO - Displayed number: 4
+2022-11-13 17:46:02,665 - Logger - INFO - Displayed number: 5
+2022-11-13 17:46:02,665 - Logger - INFO - Displayed number: 3
+2022-11-13 17:46:02,665 - Logger - INFO - Program done
+2022-11-13 17:46:39,041 - Logger - INFO - Program started
+2022-11-13 17:46:41,570 - Logger - INFO - User entered value 3
+2022-11-13 17:46:41,570 - Logger - INFO - Displayed number: 1
+2022-11-13 17:48:29,481 - Logger - INFO - Displayed number: 3
+2022-11-13 17:48:30,800 - Logger - INFO - Displayed number: 2
+2022-11-13 17:48:30,981 - Logger - INFO - Program done
+2022-11-13 17:48:33,004 - Logger - INFO - Program started
+2022-11-13 17:48:35,377 - Logger - INFO - User entered value 3
+2022-11-13 17:48:35,378 - Logger - INFO - Displayed number: 3
+2022-11-13 17:48:35,975 - Logger - INFO - Displayed number: 2
+2022-11-13 17:48:36,473 - Logger - INFO - Displayed number: 1
+2022-11-13 17:48:36,964 - Logger - INFO - Program done
+2022-11-13 17:51:34,943 - Logger - INFO - Program started
+2022-11-13 17:52:12,395 - Logger - INFO - User entered value 7
+2022-11-13 17:52:12,396 - Logger - INFO - Displayed number: 2
+2022-11-13 17:52:13,455 - Logger - INFO - Displayed number: 4
+2022-11-13 17:52:13,617 - Logger - INFO - Displayed number: 6
+2022-11-13 17:52:13,763 - Logger - INFO - Displayed number: 5
+2022-11-13 17:52:13,906 - Logger - INFO - Displayed number: 7
+2022-11-13 17:52:14,047 - Logger - INFO - Displayed number: 1
+2022-11-13 17:52:14,182 - Logger - INFO - Displayed number: 3
+2022-11-13 17:52:15,376 - Logger - INFO - Program done
+2022-11-13 17:52:55,971 - Logger - INFO - Program started
+2022-11-13 17:52:59,455 - Logger - INFO - User entered value 13
+2022-11-13 17:52:59,456 - Logger - INFO - Displayed number: 10
+2022-11-13 17:53:00,445 - Logger - INFO - Displayed number: 3
+2022-11-13 17:53:00,653 - Logger - INFO - Displayed number: 5
+2022-11-13 17:53:00,793 - Logger - INFO - Displayed number: 7
+2022-11-13 17:53:00,943 - Logger - INFO - Displayed number: 4
+2022-11-13 17:53:01,074 - Logger - INFO - Displayed number: 1
+2022-11-13 17:53:01,210 - Logger - INFO - Displayed number: 11
+2022-11-13 17:53:01,341 - Logger - INFO - Displayed number: 12
+2022-11-13 17:53:01,487 - Logger - INFO - Displayed number: 8
+2022-11-13 17:53:01,624 - Logger - INFO - Displayed number: 9
+2022-11-13 17:53:01,768 - Logger - INFO - Displayed number: 2
+2022-11-13 17:53:01,989 - Logger - INFO - Displayed number: 13
+2022-11-13 17:53:02,428 - Logger - INFO - Displayed number: 6
+2022-11-13 17:53:02,856 - Logger - INFO - Program done
+2022-11-13 17:53:17,015 - Logger - INFO - Program started
+2022-11-13 17:53:19,697 - Logger - INFO - User entered value 25
+2022-11-13 17:53:19,698 - Logger - INFO - Displayed number: 14
+2022-11-13 17:53:19,878 - Logger - INFO - Displayed number: 9
+2022-11-13 17:53:20,035 - Logger - INFO - Displayed number: 16
+2022-11-13 17:53:20,193 - Logger - INFO - Displayed number: 11
+2022-11-13 17:53:20,349 - Logger - INFO - Displayed number: 12
+2022-11-13 17:53:20,517 - Logger - INFO - Displayed number: 3
+2022-11-13 17:53:20,676 - Logger - INFO - Displayed number: 1
+2022-11-13 17:53:20,830 - Logger - INFO - Displayed number: 20
+2022-11-13 17:53:20,987 - Logger - INFO - Displayed number: 25
+2022-11-13 17:53:21,148 - Logger - INFO - Displayed number: 19
+2022-11-13 17:53:21,333 - Logger - INFO - Displayed number: 5
+2022-11-13 17:53:21,506 - Logger - INFO - Displayed number: 21
+2022-11-13 17:53:21,663 - Logger - INFO - Displayed number: 24
+2022-11-13 17:53:21,839 - Logger - INFO - Displayed number: 15
+2022-11-13 17:53:22,015 - Logger - INFO - Displayed number: 10
+2022-11-13 17:53:22,183 - Logger - INFO - Displayed number: 22
+2022-11-13 17:53:22,509 - Logger - INFO - Displayed number: 8
+2022-11-13 17:53:22,797 - Logger - INFO - Displayed number: 7
+2022-11-13 17:53:23,072 - Logger - INFO - Displayed number: 17
+2022-11-13 17:53:23,307 - Logger - INFO - Displayed number: 2
+2022-11-13 17:53:23,511 - Logger - INFO - Displayed number: 18
+2022-11-13 17:53:23,701 - Logger - INFO - Displayed number: 6
+2022-11-13 17:53:23,871 - Logger - INFO - Displayed number: 23
+2022-11-13 17:53:24,051 - Logger - INFO - Displayed number: 4
+2022-11-13 17:53:24,240 - Logger - INFO - Displayed number: 13
+2022-11-13 17:53:24,439 - Logger - INFO - Program done
